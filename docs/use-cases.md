@@ -8,7 +8,7 @@ Each use case traces to at least one ADR and, once code exists, to at least one 
 
 | Id | Use case | Class | ADRs | Tests | Status |
 |---|---|---|---|---|---|
-| UC-1 | Divide one number by another | proposed | | | draft |
+| UC-1 | Divide one number by another | must | | | accepted |
 
 ## UC-1. Divide one number by another
 
