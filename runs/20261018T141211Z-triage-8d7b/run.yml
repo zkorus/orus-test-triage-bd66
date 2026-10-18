@@ -5,12 +5,10 @@ role: triage
 item: "#2"
 machine: m-f8d023bb
 attempt: 2
-state: running
+state: finished
 resumes: null
 started: 2026-10-18T14:12:11Z
 role_commit: f1c656b5cf9996c5e932d293c034fc030104b64c
 agent: false
-checkpoint:
-  name: action
-  number: 1
-  at: 2026-10-18T14:12:40Z
+ended: 2026-10-18T14:12:50Z
+reason: dispatched Dev under UC-1, with no agent
