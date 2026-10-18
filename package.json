@@ -1,0 +1,7 @@
+{
+  "name": "orus-test-triage-bd66",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
