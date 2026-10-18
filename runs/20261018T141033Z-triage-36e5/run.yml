@@ -1,0 +1,11 @@
+v: 0
+run: 20261018T141033Z-triage-36e5
+repo: zkorus/orus-test-triage-bd66
+role: triage
+item: "#2"
+machine: m-f8d023bb
+attempt: 1
+state: running
+resumes: null
+started: 2026-10-18T14:10:33Z
+role_commit: 3cc3e9450defaea765d3dd1a82d42b3fe757f30f
