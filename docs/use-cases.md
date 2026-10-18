@@ -8,6 +8,19 @@ Each use case traces to at least one ADR and, once code exists, to at least one 
 
 | Id | Use case | Class | ADRs | Tests | Status |
 |---|---|---|---|---|---|
+| UC-1 | Divide one number by another | must | | | accepted |
+
+## UC-1. Divide one number by another
+
+**Actor:** calculator user. **Goal:** divide one number by another.
+
+1. The user enters a dividend and a divisor.
+2. orus returns the quotient of the dividend divided by the divisor.
+3. When the divisor is zero, orus reports an error and returns no quotient.
+
+**Done when:** for a dividend and a non-zero divisor, the returned quotient equals the dividend divided by the divisor, and for a zero divisor an error is reported and no quotient is returned.
+
+For #2.
 
 ## Template
 
