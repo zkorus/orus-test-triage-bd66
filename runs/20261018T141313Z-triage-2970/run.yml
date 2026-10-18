@@ -5,11 +5,9 @@ role: triage
 item: "#4"
 machine: m-f8d023bb
 attempt: 1
-state: running
+state: finished
 resumes: null
 started: 2026-10-18T14:13:13Z
 role_commit: f1c656b5cf9996c5e932d293c034fc030104b64c
-checkpoint:
-  name: action
-  number: 3
-  at: 2026-10-18T14:14:20Z
+ended: 2026-10-18T14:14:27Z
+reason: 3 actions performed
