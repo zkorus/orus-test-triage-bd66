@@ -12,5 +12,5 @@ test_targets:
 # No role runs until it is listed here. The roles: triage, dev, reviewer, release, dependency, security, test-quality, auditor.
 # To let Triage run, for example, replace the line below with:  roles: { triage: {} }
 roles:
-  triage: {}
+  triage: { model: haiku }
   dev: {}
